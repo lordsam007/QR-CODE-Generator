@@ -1,0 +1,13 @@
+﻿{
+  "name": "QR code Generator (MV3) ",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is QR CODE Generator",
+  "action": {
+    "default_title": "I am QR CODE GENERATOR",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "sam_icon_32.png"
+    }
+  }
+}
